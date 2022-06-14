@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\bin\Debug\net6.0\FuncClass.exe
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\bin\Debug\net6.0\FuncClass.deps.json
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\bin\Debug\net6.0\FuncClass.runtimeconfig.json
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\bin\Debug\net6.0\FuncClass.dll
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\bin\Debug\net6.0\FuncClass.pdb
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.dll
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\refint\FuncClass.dll
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.pdb
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\FuncClass.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\FuncClass\FuncClass\obj\Debug\net6.0\ref\FuncClass.dll
